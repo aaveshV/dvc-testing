@@ -1,0 +1,6 @@
+[core]
+    remote = aaveshrepo
+['remote "aaveshfolder"']
+    url = /Users/10639490/Documents/Project_repo/mlflow/dvc_versioning_folder
+['remote "aaveshrepo"']
+    url = /Users/10639490/Documents/Project_repo/mlflow/dvc_versioning_folder
